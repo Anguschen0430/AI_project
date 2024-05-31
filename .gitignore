@@ -1,0 +1,5 @@
+# 忽略 voice 目录
+voice/
+
+# 忽略 saved_models 目录
+saved_models/
